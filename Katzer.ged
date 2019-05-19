@@ -1,0 +1,1373 @@
+﻿0 HEAD
+1 SOUR AHN
+2 VERS 2.99e
+2 NAME Ahnenblatt
+2 CORP Dirk Boettcher
+1 DATE 17 MAY 2019
+2 TIME 16:48:28
+1 SUBM @SUBM@
+1 FILE Katzer.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 _NAVM 1
+2 _NAVI @I69@
+1 _HOME @I69@
+0 @SUBM@ SUBM
+1 NAME Steffen Häuser
+1 ADDR Südstr. 40
+2 CONT 71522 Backnang
+2 CONT Germany
+2 CONT tirionareonwe@gmail.com
+0 @I1@ INDI
+1 _UID 47B4B60315284C41A4DFA8E77A5B5934F297
+1 NAME Johann /Katzer/
+2 SURN Katzer
+2 GIVN Johann
+1 SEX M
+1 BIRT
+2 DATE 18 OCT 1831
+2 PLAC Wichstadtl
+1 CHAN
+2 DATE 24 APR 2019
+3 TIME 22:36:31
+1 FAMS @F10@
+1 FAMC @F11@
+1 NOTE He married in Wichstadtl #3.
+2 CONT He was born in Wichstadtl #105.
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\JohannKatzer1831_Birth.png
+3 FORM png
+2 TITL JohannKatzer1831 Birth
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\JohannKatzer1867_Marriage_Part1.png
+3 FORM png
+2 TITL JohannKatzer1867 Marriage Part1
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\JohannKatzer1867_Marriage_Part2.png
+3 FORM png
+2 TITL JohannKatzer1867 Marriage Part2
+0 @I2@ INDI
+1 _UID 1FAA57A1980842069A81240A1C84752F368D
+1 NAME Marianna /Walter/
+2 SURN Walter
+2 GIVN Marianna
+1 SEX F
+1 BIRT
+2 PLAC Grulich
+2 DATE 8 OCT 1796
+1 CHAN
+2 DATE 24 APR 2019
+3 TIME 23:55:14
+1 FAMS @F11@
+1 DEAT
+2 DATE (before 4.3.1867)
+1 FAMC @F8@
+1 NOTE She lived in Grulich #209.
+2 CONT She was born in Grulich #41.
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\MariaAnnaWalter1796_Birth.png
+3 FORM png
+2 TITL MariaAnnaWalter1796 Birth
+0 @I5@ INDI
+1 _UID D6E4377BC7CA4A9D9ACE7C426629435733FC
+1 NAME Marianna /Hannig/
+2 SURN Hannig
+2 GIVN Marianna
+1 SEX F
+1 CHAN
+2 DATE 23 APR 2019
+3 TIME 22:07:45
+1 FAMC @F5@
+1 BIRT
+2 DATE (before 1761)
+0 @I8@ INDI
+1 _UID 775415C4B4CF41998F0218EE7C6D4B6935A8
+1 NAME Andreas /Hannig/
+2 SURN Hannig
+2 GIVN Andreas
+1 SEX M
+1 FAMS @F5@
+1 CHAN
+2 DATE 23 APR 2019
+3 TIME 22:07:54
+1 BIRT
+2 DATE (before 1743)
+0 @I9@ INDI
+1 _UID D121C90625A84BFC9C35140CC40B496A483D
+1 NAME Fabian /Filipp/
+2 SURN Filipp
+2 GIVN Fabian
+1 SEX M
+1 NOTE Born in #145.
+2 CONT He lived in Jamnay #145.
+2 CONT There are several Fabian Filipp's from Jamnay in the timeframe, but only one was born in #145 (and lived past childhood).
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 13:02:40
+1 FAMS @F6@
+1 BIRT
+2 DATE 8 SEP 1815
+2 PLAC Jamnay
+1 DEAT
+2 DATE (before 21.1.1875)
+1 FAMC @F16@
+1 OBJE
+2 FILE .\Katzer Media\FabianFilipp1815_Birth.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL FabianFilipp1815 Birth
+1 OBJE
+2 FILE .\Katzer Media\FabianFilipp1845_Marriage_Part1.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL FabianFilipp1845 Marriage Part1
+1 OBJE
+2 FILE .\Katzer Media\FabianFilipp1845_Marriage_Part2.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL FabianFilipp1845 Marriage Part2
+0 @I10@ INDI
+1 _UID 0D4595AD5B3846F480E9B0D72F13FD0A9A71
+1 NAME Anna /Knapek/
+2 SURN Knapek
+2 GIVN Anna
+1 SEX F
+1 FAMS @F6@
+1 NOTE She lived in Cotkytl #45 in Moravia. 
+2 CONT She is also born in Cotkytl #45.
+1 CHAN
+2 DATE 16 MAY 2019
+3 TIME 16:04:23
+1 BIRT
+2 DATE 24 MAY 1826
+2 PLAC Cotkytle
+1 FAMC @F17@
+0 @I11@ INDI
+1 _UID FB4A16E241E14DBC92F63E0EB21B80A029C6
+1 NAME Franz Joseph /Katzer/
+2 SURN Katzer
+2 GIVN Franz Joseph
+1 SEX M
+1 FAMC @F10@
+1 BIRT
+2 DATE 21 JAN 1875
+2 PLAC Wichstadtl
+1 CHAN
+2 DATE 24 APR 2019
+3 TIME 21:30:17
+1 DEAT
+2 DATE 14 DEC 1938
+2 PLAC Oskaloosa, Mahaska County, Iowa, USA
+1 NOTE He was born in Wichstadtl #3.
+0 @I12@ INDI
+1 _UID C678CA9B831747509AEDD6B6477C59A4A7CD
+1 NAME Joseph /Knapek/
+2 SURN Knapek
+2 GIVN Joseph
+1 SEX M
+1 CHAN
+2 DATE 16 MAY 2019
+3 TIME 16:10:20
+1 OCCU Peasant
+1 BIRT
+2 DATE 26 AUG 1797
+2 PLAC Cotkytle
+1 NOTE He lived in Cotkytle #45. He lived already there when he married. He was already born there.
+1 FAMS @F17@
+1 FAMC @F39@
+0 @I13@ INDI
+1 _UID C39493D4A83645428CEA3A1247E631AAED36
+1 NAME Anna Maria /Sündermann/
+2 SURN Sündermann
+2 GIVN Anna Maria
+1 SEX F
+1 FAMS @F8@
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 16:19:34
+1 BIRT
+2 DATE 31 OCT 1766
+1 FAMC @F14@
+0 @I14@ INDI
+1 _UID 5F8A97BEC0644229A85A76D76E79DAC4A187
+1 NAME Franz Anton /Katzer/
+2 SURN Katzer
+2 GIVN Franz Anton
+1 SEX M
+1 BIRT
+2 DATE (before 1753)
+1 CHAN
+2 DATE 24 APR 2019
+3 TIME 23:26:13
+1 FAMS @F9@
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\FranzAntonKatzer1770_Marriage.jpg
+3 FORM jpg
+2 TITL FranzAntonKatzer1770 Marriage
+1 FAMC @F12@
+0 @I15@ INDI
+1 _UID A00994CE47334DBA8D71DA046B16F28F6A36
+1 NAME Franziska /Filipp/
+2 SURN Filipp
+2 GIVN Franziska
+1 SEX F
+1 FAMS @F10@
+1 CHAN
+2 DATE 25 APR 2019
+3 TIME 22:17:38
+1 FAMC @F6@
+1 BIRT
+2 DATE 27 AUG 1848
+2 PLAC Jamnay
+1 NOTE She was born in Jamnay #145.
+2 CONT She lived in Lichtenau #123.
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\FranziskaFilipp1848_Birth_Part1.png
+3 FORM png
+2 TITL FranziskaFilipp1848 Birth Part1
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\FranziskaFilipp1848_Birth_Part2.png
+3 FORM png
+2 TITL FranziskaFilipp1848 Birth Part2
+0 @I16@ INDI
+1 _UID 3AB85FF4CB5D4AD682780E257CF07F32D740
+1 NAME Ferdinand Wenzeslaus /Katzer/
+2 SURN Katzer
+2 GIVN Ferdinand Wenzeslaus
+1 SEX M
+1 FAMS @F11@
+1 CHAN
+2 DATE 24 APR 2019
+3 TIME 23:24:14
+1 OCCU Owner
+1 DEAT
+2 DATE (before 29.12.1876)
+1 NOTE He lived in Wichstadtl #105.
+2 CONT 1875 (at the birth of Franz Joseph) he was not yet marked as deceased.
+2 CONT He was before married to Anna Maria Ludwig, who died in 1828.
+1 BIRT
+2 DATE 27 JUL 1785
+2 PLAC Wichstadtl
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\FerdinandWenzeslausKatzer1785_Birth.jpg
+3 FORM jpg
+2 TITL FerdinandWenzeslausKatzer1785 Birth
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\FerdinandKatzer1829_Marriage.png
+3 FORM png
+2 TITL FerdinandKatzer1829 Marriage
+1 FAMC @F9@
+0 @I17@ INDI
+1 _UID EA66949C08704731B283DBEC32F805B651A0
+1 NAME Franz /Walter/
+2 SURN Walter
+2 GIVN Franz
+1 SEX M
+1 CHAN
+2 DATE 25 APR 2019
+3 TIME 0:01:57
+1 NOTE He lived in Grulich #209 and in Grulich #41.
+1 OCCU Shoemaker
+1 BIRT
+2 DATE 7 FEB 1766
+2 PLAC Heydisch
+1 FAMS @F8@
+1 FAMC @F15@
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\FranzWalter1790_Marriage.png
+3 FORM png
+2 TITL FranzWalter1790 Marriage
+0 @I18@ INDI
+1 _UID 7786E97C9E8745798A6B9B25E79633650F3D
+1 NAME Theresia /Fischer/
+2 SURN Fischer
+2 GIVN Theresia
+1 SEX F
+1 FAMS @F9@
+1 BIRT
+2 DATE (before 1753)
+1 CHAN
+2 DATE 24 APR 2019
+3 TIME 23:25:19
+1 FAMC @F13@
+0 @I19@ INDI
+1 _UID 53B27BEE79A44697B26648512C7037BCA8FA
+1 NAME Anton /Katzer/
+2 SURN Katzer
+2 GIVN Anton
+1 SEX M
+1 FAMS @F12@
+1 BIRT
+2 DATE (before 1735)
+1 CHAN
+2 DATE 24 APR 2019
+3 TIME 23:26:30
+0 @I20@ INDI
+1 _UID AF7AD7EF1DE6471698D3D8A7D322F0DFFD0E
+1 NAME Johann /Fischer/
+2 SURN Fischer
+2 GIVN Johann
+1 SEX M
+1 FAMS @F13@
+1 BIRT
+2 DATE (before 1735)
+1 CHAN
+2 DATE 24 APR 2019
+3 TIME 23:26:48
+0 @I21@ INDI
+1 _UID F0169392CF8641A6BE10BB08D4E4F426CA88
+1 NAME Franz Anton /Sündermann/
+2 SURN Sündermann
+2 GIVN Franz Anton
+1 SEX M
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 12:20:35
+1 FAMS @F14@
+1 BIRT
+2 PLAC Ober-Lipka
+2 DATE 5 FEB 1741
+1 NOTE Bartholomäus and Eleonora Sündermann have two children named Franz, Franz Karl and Franz Anton.
+2 CONT Franz Karl dies 1741 at age 2, so Franz Anton is the correct assignment.
+1 FAMC @F30@
+0 @I22@ INDI
+1 _UID F6241F99063646D9AC30B2380FA714E7A41E
+1 NAME Anton /Walter/
+2 SURN Walter
+2 GIVN Anton
+1 SEX M
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 11:34:35
+1 FAMS @F15@
+1 BIRT
+2 DATE (before 1734)
+2 PLAC Ober-Heydisch
+1 NOTE Probably the Anton, son of Michael Walter who marries on 22.02.1751 Anna Theresia, daughter of Tobias Nentwich from Rothfluss.
+1 OBJE
+2 FILE D:\Downloads\Ahnenblatt\Katzer Media\AntonWalter1761_Ehe.bmp
+3 _ALTPATH .\Katzer Media\
+3 FORM bmp
+2 TITL AntonWalter1761 Ehe
+1 FAMC @F36@
+0 @I23@ INDI
+1 _UID 5EF64F39919245D78DEA12998CFD734D8665
+1 NAME Elisabeth /Sündermann/
+2 SURN Sündermann
+2 GIVN Elisabeth
+1 SEX F
+1 FAMS @F15@
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 16:19:42
+1 BIRT
+2 DATE 13 SEP 1735
+2 PLAC Heydisch
+1 NOTE Sometimes called Maria Elisabeth, sometimes Anna Elisabeth. I am pretty sure it is the same person! Anna Elisabeth was the name at birth, so I assume Anna Elisabeth is correct. Probably she was called just Elisabeth or Lisa or Lisbeth and the pr
+2 CONC iest on the marriage wrote the wrong second name. There is also no other Johann Sündermann from Heydisch in the fitting timeframe.
+1 FAMC @F44@
+0 @I24@ INDI
+1 _UID CB21697352FE47E98B42E38ACF0CD0A7D4BE
+1 NAME Theresia /Ziegner/
+2 SURN Ziegner
+2 GIVN Theresia
+1 SEX F
+1 FAMS @F14@
+1 CHAN
+2 DATE 10 MAY 2019
+3 TIME 10:25:00
+1 BIRT
+2 PLAC Neusorg
+2 DATE (before 1749)
+1 FAMC @F34@
+0 @I25@ INDI
+1 _UID 2547D18622F24CF98862D7546F6B63B11F7C
+1 NAME Fabian Sebastian /Filipp/
+2 SURN Filipp
+2 GIVN Fabian Sebastian
+1 SEX M
+1 BIRT
+2 DATE 22 SEP 1769
+2 PLAC Jamnay
+1 OCCU Peasant
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 14:35:14
+1 FAMS @F16@
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\FabianSebastian1769_Birth.png
+3 FORM png
+2 TITL FabianSebastian1769 Birth
+1 FAMC @F18@
+1 NOTE Died in House #145.
+2 CONT There is a second Fabian Filipp, born 1768.
+2 CONT 
+2 CONT - Marriage and death records of the "correct Fabian" point to a birthdate of 1769 (Fabian Sebastian is born 1769, Anton Fabian is born 1768)
+2 CONT - The family of Anton Fabian's father, Anton Filip, is from House no. 111 (he still owns the house 1797, as 1797 his son Johann marries, and as
+2 CONT   his parenthouse is given #111, and as his father Anton Filip)
+2 CONT - On 13.11.1796 the 28-year-old Anton Fabian marries, with house #111. Calculated back this gives a birth-year of 1768. This "Anton Filip"
+2 CONT   is "Anton Fabian Filip" !!!
+2 CONT - There is no other Anton Filipp born who "could be it" in 1796 (in 1770 an Anton Filip is born the earliest again, and he is Joseph Anton Filip,
+2 CONT   I suspect he ran by "Joseph", not "Anton", independent of that in his case the timing would be 2 years off)
+2 CONT - So the one who marries 1795 is actually Fabian Sebastian Filipp!!!
+1 DEAT
+2 DATE 23 NOV 1836
+2 PLAC Jamnay
+1 OBJE
+2 FILE .\Katzer Media\FabianFilipp1795_Marriage.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL FabianFilipp1795 Marriage
+1 OBJE
+2 FILE .\Katzer Media\FabianFilipp1836_Death.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL FabianFilipp1836 Death
+0 @I26@ INDI
+1 _UID A172591B75A64E2FB86E91FF810B764F26CF
+1 NAME Rosalia /Filipp/
+2 SURN Filipp
+2 GIVN Rosalia
+1 SEX F
+1 FAMS @F16@
+1 BIRT
+2 DATE 20 JUN 1776
+2 PLAC Jamnay
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 10:27:35
+1 FAMC @F19@
+1 OBJE
+2 FILE F:\Stammbaum\ProjektGrund\RosaliaFIlipp1776_Birth.png
+3 FORM png
+2 TITL RosaliaFIlipp1776 Birth
+1 DEAT
+2 DATE 15 APR 1852
+2 PLAC Jamnay
+1 OBJE
+2 FILE .\Katzer Media\RosaliaFilipp1852_Death.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL RosaliaFilipp1852 Death
+0 @I27@ INDI
+1 _UID 880661AC439345A48D4DA86CACD7E919CD7E
+1 NAME Tobias Joseph /Filipp/
+2 SURN Filipp
+2 GIVN Tobias Joseph
+1 SEX M
+1 BIRT
+2 DATE 6 NOV 1743
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 13:03:29
+1 OCCU Peasant
+1 FAMS @F19@
+1 NOTE He lived in Jamnay #89 and in Jamnay #123.
+1 FAMC @F21@
+1 OBJE
+2 FILE .\Katzer Media\TobiasPhilipp1743_Birth.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL TobiasPhilipp1743 Birth
+0 @I28@ INDI
+1 _UID 89D8CB69BE0545BB81D84E80AA4822C558D8
+1 NAME Wenceslaus /Filipp/
+2 SURN Filipp
+2 GIVN Wenceslaus
+1 SEX M
+1 BIRT
+2 DATE 15 JAN 1732
+2 PLAC Jamnay
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 14:38:44
+1 FAMS @F18@
+1 DEAT
+2 DATE 21 APR 1800
+2 PLAC Jamnay
+1 NOTE He lived in Jamnay #103.
+1 OBJE
+2 FILE .\Katzer Media\WenceslausFilipp1732_Birth.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL WenceslausFilipp1732 Birth
+1 OBJE
+2 FILE .\Katzer Media\WenceslausFilipp1800_Death.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL WenceslausFilipp1800 Death
+1 FAMC @F24@
+0 @I29@ INDI
+1 _UID 500C945CD9D6484B89056141098CC6364FC9
+1 NAME Catharina /Gyronicz/
+2 SURN Gyronicz
+2 GIVN Catharina
+1 SEX F
+1 FAMS @F18@
+1 BIRT
+2 DATE ABT 1729
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 14:40:43
+1 DEAT
+2 DATE 18 OCT 1804
+2 PLAC Jamnay
+1 FAMC @F26@
+0 @I30@ INDI
+1 _UID 7DCFF534B8C94348AD958B084F33D553001B
+1 NAME Rosalia /Prokopetz/
+2 SURN Prokopetz
+2 GIVN Rosalia
+1 SEX F
+1 FAMS @F19@
+1 BIRT
+2 DATE 16 JUN 1750
+2 PLAC Jamnay
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 15:18:34
+1 OBJE
+2 FILE .\Katzer Media\RosaliaProkopetz1750_Birth.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL RosaliaProkopetz1750 Birth
+1 DEAT
+2 DATE 6 APR 1820
+1 NOTE Died in Jamnay #123.
+2 CONT Note: Elisabeth, mother of her future husband was Levans at her birth (probably the families knew each other already).
+1 OBJE
+2 FILE .\Katzer Media\RosaliaProkopetz1820_Death.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL RosaliaProkopetz1820 Death
+1 FAMC @F22@
+0 @I31@ INDI
+1 _UID 0B96FA60CAE64A14B4BC4955FECB823EA0B6
+1 NAME Veronica /Beran/
+2 SURN Beran
+2 GIVN Veronica
+1 SEX F
+1 FAMS @F17@
+1 BIRT
+2 DATE 17 JAN 1799
+2 PLAC Herbotitz
+1 CHAN
+2 DATE 16 MAY 2019
+3 TIME 16:16:24
+1 FAMC @F37@
+1 NOTE She was born in Herbotitz #47.
+0 @I32@ INDI
+1 _UID F0D4E1F929C6443E9579C110BD73DCFCF671
+1 NAME Thaddäus /Beran/
+2 SURN Beran
+2 GIVN Thaddäus
+1 SEX M
+1 BIRT
+2 DATE 25 SEP 1765
+2 PLAC Herbotitz
+1 NOTE He lived in Herbotitz #47.
+2 CONT He married in #23 (unclear which village).
+1 CHAN
+2 DATE 16 MAY 2019
+3 TIME 16:36:36
+1 FAMS @F37@
+1 OCCU Peasant
+1 FAMC @F40@
+0 @I33@ INDI
+1 _UID 09A3C4203BE84CFBAA46D4FEC84CF37E418C
+1 NAME Johann Tobias /Filipp/
+2 SURN Filipp
+2 GIVN Johann Tobias
+1 SEX M
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 16:40:49
+1 BIRT
+2 DATE 17 MAR 1707
+1 FAMS @F21@
+1 FAMC @F25@
+0 @I34@ INDI
+1 _UID 47D2A9452F134FE1B573019938D72750C154
+1 NAME Anton /Prokopetz/
+2 SURN Prokopetz
+2 GIVN Anton
+1 SEX M
+1 BIRT
+2 DATE 15 MAR 1714
+2 PLAC Jamnay
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 16:05:00
+1 FAMS @F22@
+1 FAMC @F28@
+1 OBJE
+2 FILE .\Katzer Media\AntonProkopecz1714_Birth.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL AntonProkopecz1714 Birth
+0 @I35@ INDI
+1 _UID C610F7589DC944949E5015712CD76C6DB372
+1 NAME Elisabeth /Morawetz/
+2 SURN Morawetz
+2 GIVN Elisabeth
+1 SEX F
+1 FAMS @F21@
+1 BIRT
+2 DATE 23 MAY 1711
+2 PLAC Jamnay
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 15:04:46
+1 FAMC @F23@
+1 OBJE
+2 FILE .\Katzer Media\ElisabethMorawetz1711_Birth.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL ElisabethMorawetz1711 Birth
+0 @I36@ INDI
+1 _UID F59AAC68ADCB44F283E1BFE96507B44ECBAA
+1 NAME Wenceslaus /Morawetz/
+2 SURN Morawetz
+2 GIVN Wenceslaus
+1 SEX M
+1 BIRT
+2 DATE 3 MAR 1669
+2 PLAC Jamnay
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 16:34:58
+1 FAMS @F23@
+1 NOTE Wenceslaus Morawetz married Susanna as a widower.
+2 CONT Wenceslaus married the first time in Jamnay on 29.01.1692.
+1 FAMC @F29@
+0 @I37@ INDI
+1 _UID D64FA1D3A24A4A77AF3DDC519A990E6303F1
+1 NAME Matthäus /Filipp/
+2 SURN Filipp
+2 GIVN Matthäus
+1 SEX M
+1 BIRT
+2 DATE (before 1690)
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 8:56:59
+1 FAMS @F25@
+0 @I38@ INDI
+1 _UID 1ACC0E0629794D0DAFBE6142E341E6FF0F90
+1 NAME Anna /.../
+2 SURN ...
+2 GIVN Anna
+1 SEX F
+1 FAMS @F25@
+1 BIRT
+2 DATE (before 1690)
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 8:57:15
+0 @I39@ INDI
+1 _UID 0B73280188E94F1F90E8D139C8DE7E558120
+1 NAME Wenceslaus /Filipp/
+2 SURN Filipp
+2 GIVN Wenceslaus
+1 SEX M
+1 BIRT
+2 DATE 9 FEB 1706
+2 PLAC Jamnay
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 15:10:47
+1 FAMS @F24@
+1 FAMC @F27@
+0 @I40@ INDI
+1 _UID 8BF6454AED5B45B68C201426F8C14478AE58
+1 NAME Catharina /.../
+2 SURN ...
+2 GIVN Catharina
+1 SEX F
+1 FAMS @F24@
+1 BIRT
+2 DATE (before 1715)
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 14:39:04
+0 @I41@ INDI
+1 _UID 5B23FC5825D649C0842FDCBEB5B8DF017087
+1 NAME Johann /Gyronicz/
+2 SURN Gyronicz
+2 GIVN Johann
+1 SEX M
+1 FAMS @F26@
+1 BIRT
+2 DATE (before 1712)
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 14:40:58
+0 @I42@ INDI
+1 _UID E15D4C08B4DF4C00A2EAD31CB1461C515023
+1 NAME Wenceslaus /Filipp/
+2 SURN Filipp
+2 GIVN Wenceslaus
+1 SEX M
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 14:53:56
+1 FAMS @F27@
+1 BIRT
+2 DATE (before 1680)
+1 NOTE His wife Judith was the widow of Dominik Schlesinger, before she married Wenceslaus. Wenceslaus married her as a widower.
+0 @I43@ INDI
+1 _UID A6A606A437414F31A881E141BA7DF3F25579
+1 NAME Judith /.../
+2 SURN ...
+2 GIVN Judith
+1 SEX F
+1 FAMS @F27@
+1 CHAN
+2 DATE 16 MAY 2019
+3 TIME 17:05:16
+1 BIRT
+2 DATE (before 1680)
+0 @I44@ INDI
+1 _UID 101D6502C67C454C8EC79146C26695A0F0F6
+1 NAME Susanna /.../
+2 SURN ...
+2 GIVN Susanna
+1 SEX F
+1 FAMS @F23@
+1 BIRT
+2 DATE (before 1694)
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 15:07:29
+1 NOTE Before her marriage with Wenceslaus Morawetz she was married with Dominik Schlesinger.
+0 @I45@ INDI
+1 _UID F4A52D83AE5C41D197BEB9BBB6595DEE8879
+1 NAME Judith /Bileg/
+2 SURN Bileg
+2 GIVN Judith
+1 SEX F
+1 FAMS @F22@
+1 BIRT
+2 DATE (before 1723)
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 16:09:55
+1 FAMC @F33@
+0 @I46@ INDI
+1 _UID A09C43A8A2DE4991BA7C9956FFF886395C0C
+1 NAME Johann /Prokopetz/
+2 SURN Prokopetz
+2 GIVN Johann
+1 SEX M
+1 BIRT
+2 DATE 1 DEC 1669
+2 PLAC Jamnay
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 15:59:31
+1 FAMS @F28@
+1 FAMC @F32@
+1 OBJE
+2 FILE .\Katzer Media\JohannProkopecz1669_Birth.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL JohannProkopecz1669 Birth
+1 OBJE
+2 FILE .\Katzer Media\JohannProkopecz1695_Marriage.bmp
+3 _ALTPATH Katzer Media\
+3 FORM bmp
+2 TITL JohannProkopecz1695 Marriage
+0 @I47@ INDI
+1 _UID C7D27B777E224AA8A91CF8C251F9F2D9B13F
+1 NAME Paul /Bileg/
+2 SURN Bileg
+2 GIVN Paul
+1 SEX M
+1 BIRT
+2 DATE (before 1704)
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 16:19:55
+1 FAMS @F33@
+0 @I48@ INDI
+1 _UID 080C292D237F439C9D59F7160B1BF60F19F5
+1 NAME Rosina /Kozaczek/
+2 SURN Kozaczek
+2 GIVN Rosina
+1 SEX F
+1 FAMS @F28@
+1 BIRT
+2 DATE ABT 1677
+2 PLAC Nieder-Hermanitz
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 15:43:01
+1 FAMC @F31@
+1 OBJE
+2 FILE .\Katzer Media\RosinaKozaczek1740_Death.jpg
+3 _ALTPATH Katzer Media\
+3 FORM jpg
+2 TITL RosinaKozaczek1740 Death
+1 DEAT
+2 DATE 15 AUG 1740
+0 @I49@ INDI
+1 _UID DE7406411DB645E38D7A3AAE3A02E129C981
+1 NAME Georg /Prokopetz/
+2 SURN Prokopetz
+2 GIVN Georg
+1 SEX M
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 15:49:32
+1 BIRT
+2 DATE (before 1644)
+1 FAMS @F32@
+1 NOTE According to the Soullist 1651 in this time two Georg Prokopecz lived in Jamnay. One was born around 1643 (assuming the counting was around 1657 what usually is a good estimation), the other ca. 1629. A death record without age was found in 1685
+2 CONC . The Anna Prokopecz, Widow of Georg who dies 1703 and is born arodund 1623 was probably the wife of this Georg Prokopecz. The Anna who married the ca. 1629 born Georg Prokopecz should be born around 1639 though. It is also unknown which of the 
+2 CONC two Georg Prokopecz was the father of Johann Prokopecz. If both had a wife named Anna (which is not impossible) both might be applicable. I assume though the one from ca. 1629 is the correct one. It is not possible to be sure of this though, at 
+2 CONC least not until landbooks of Jamnay are available.
+0 @I50@ INDI
+1 _UID D33AA278C95047BDAF183258FF01B681CCC1
+1 NAME Paul /Kozaczek/
+2 SURN Kozaczek
+2 GIVN Paul
+1 SEX M
+1 FAMS @F31@
+1 CHAN
+2 DATE 16 MAY 2019
+3 TIME 17:04:45
+1 BIRT
+2 DATE (before 1660)
+0 @I51@ INDI
+1 _UID 30C9CF9804BF4653912DD9230018E151C0C0
+1 NAME Anna /.../
+2 SURN ...
+2 GIVN Anna
+1 SEX F
+1 FAMS @F32@
+1 BIRT
+2 DATE (before 1651)
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 15:45:48
+0 @I52@ INDI
+1 _UID DD097FF735EB4093B6BC9F368C28BE1C24F0
+1 NAME Paul /Morawetz/
+2 SURN Morawetz
+2 GIVN Paul
+1 SEX M
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 16:37:37
+1 FAMS @F29@
+1 BIRT
+2 DATE (before 1652)
+0 @I53@ INDI
+1 _UID 6C810F47E89E4220810D04F02F8E162CAC03
+1 NAME Catharina /.../
+2 SURN ...
+2 GIVN Catharina
+1 SEX F
+1 FAMS @F29@
+1 CHAN
+2 DATE 26 APR 2019
+3 TIME 16:37:44
+1 BIRT
+2 DATE (before 1652)
+0 @I54@ INDI
+1 _UID BAC4FAC1AA54448380D07A35CE867904CEC1
+1 NAME Bartholomäus /Sündermann/
+2 SURN Sündermann
+2 GIVN Bartholomäus
+1 SEX M
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 9:53:31
+1 FAMS @F30@
+1 BIRT
+2 DATE (before 1713)
+2 PLAC Mohrau
+1 FAMC @F42@
+0 @I55@ INDI
+1 _UID CED5CC1CF132450EA7C8313D41713FD5A442
+1 NAME Adam /Ziegner/
+2 SURN Ziegner
+2 GIVN Adam
+1 SEX M
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 9:50:03
+1 FAMC @F38@
+1 FAMS @F34@
+1 BIRT
+2 DATE (before 1721)
+2 PLAC Neusorg
+1 NOTE Place of the Marriage is given as "here". It is unclear where "here" is. Most likely Ullersdorf.
+0 @I56@ INDI
+1 _UID 4C95042EDCCB4EF6A1D42D008511ACEED033
+1 NAME Johann /Sündermann/
+2 SURN Sündermann
+2 GIVN Johann
+1 SEX M
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 11:35:35
+1 NOTE HZ 1741 ? Or 1743 ?
+1 FAMS @F44@
+1 BIRT
+2 DATE (before 1716)
+2 PLAC Heydisch
+1 FAMC @F45@
+0 @I57@ INDI
+1 _UID F392E70493B74EC0BFA4D8459D5840D653D0
+1 NAME Maria Eleonora /Uhrner/
+2 SURN Uhrner
+2 GIVN Maria Eleonora
+1 SEX F
+1 FAMS @F30@
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 9:54:10
+1 BIRT
+2 DATE (before 1713)
+2 PLAC Ober-Lipka
+1 FAMC @F43@
+0 @I58@ INDI
+1 _UID E95D1CE77FF949599665A76FF1C292E39C81
+1 NAME Michael /Walter/
+2 SURN Walter
+2 GIVN Michael
+1 SEX M
+1 FAMS @F36@
+1 BIRT
+2 DATE (before 1716)
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 10:11:27
+0 @I59@ INDI
+1 _UID 6F478EB360C64EFA84154988D9477566CA66
+1 NAME Veronica /Maixner/
+2 SURN Maixner
+2 GIVN Veronica
+1 SEX F
+1 FAMS @F37@
+1 NOTE From Herbotitz #47.
+1 CHAN
+2 DATE 16 MAY 2019
+3 TIME 15:30:33
+1 BIRT
+2 DATE ABT 1766
+2 PLAC Herbotitz
+0 @I60@ INDI
+1 _UID A92A5660E62E4184AA02CF6885ECBAD545EB
+1 NAME Johann /Knapek/
+2 SURN Knapek
+2 GIVN Johann
+1 SEX M
+1 CHAN
+2 DATE 16 MAY 2019
+3 TIME 17:12:34
+1 BIRT
+2 DATE ABT 1756
+1 OCCU Peasant
+1 FAMS @F39@
+1 NOTE He married while he lived in Cotkytl #45.
+2 CONT There are two fitting Johann Knapek born in 1758, different parents. One more is in 1754.
+0 @I61@ INDI
+1 _UID 057FC88F41FA49B39B1FB1CE33E42366EBE4
+1 NAME Rosalia /Skorpil/
+2 SURN Skorpil
+2 GIVN Rosalia
+1 SEX F
+1 FAMS @F39@
+1 BIRT
+2 DATE ABT 1765
+1 CHAN
+2 DATE 16 MAY 2019
+3 TIME 15:40:59
+1 NOTE Caspar Skorpil, Peasant, was Testes. A Brother or father possibly ?
+0 @I62@ INDI
+1 _UID E19104D92F73400CBF794A3513C9F1E3A455
+1 NAME Sebastian /Beran/
+2 SURN Beran
+2 GIVN Sebastian
+1 SEX M
+1 BIRT
+2 DATE (before 1748)
+1 CHAN
+2 DATE 16 MAY 2019
+3 TIME 16:37:13
+1 OCCU Erbrichter
+1 FAMS @F40@
+0 @I63@ INDI
+1 _UID EEC5A49FD000439F886144FB57289E503D31
+1 NAME Anna Elisabeth /.../
+2 SURN ...
+2 GIVN Anna Elisabeth
+1 SEX F
+1 FAMS @F40@
+1 BIRT
+2 DATE (before 1748)
+1 CHAN
+2 DATE 16 MAY 2019
+3 TIME 16:37:27
+0 @I64@ INDI
+1 _UID F15DD250AC6640FCA4E3CE5052333BA7CA94
+1 NAME Gabriel /Ziegner/
+2 SURN Ziegner
+2 GIVN Gabriel
+1 SEX M
+1 FAMS @F38@
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 9:49:34
+1 BIRT
+2 DATE (before 1703)
+0 @I65@ INDI
+1 _UID 1621E245C72443209983E4A7297E46E62652
+1 NAME Margaretha /Seidel/
+2 SURN Seidel
+2 GIVN Margaretha
+1 SEX F
+1 FAMS @F34@
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 9:49:41
+1 FAMC @F41@
+1 BIRT
+2 DATE (before 1721)
+0 @I66@ INDI
+1 _UID 941DD916CB44441CB45C7464A42D0ECDA3D3
+1 NAME Georg /Seidel/
+2 SURN Seidel
+2 GIVN Georg
+1 SEX M
+1 FAMS @F41@
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 9:49:47
+1 BIRT
+2 DATE (before 1703)
+0 @I67@ INDI
+1 _UID CB7509EEBF6C4FC39BAA5B1278CEC49ECE12
+1 NAME Caspar /Sündermann/
+2 SURN Sündermann
+2 GIVN Caspar
+1 SEX M
+1 FAMS @F42@
+1 BIRT
+2 DATE (before 1695)
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 12:11:44
+1 NOTE The one who dies 1739 at 68 years in Morau ?
+0 @I68@ INDI
+1 _UID AAEF78350EFF4BBDA009807F3F53F43BC4E4
+1 NAME Simon /Uhrner/
+2 SURN Uhrner
+2 GIVN Simon
+1 SEX M
+1 FAMS @F43@
+1 BIRT
+2 DATE (before 1695)
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 9:54:25
+0 @I69@ INDI
+1 _UID A2F478DA205340EB84DBB6C92CF2548056DE
+1 NAME Anna Maria /Nietsche/
+2 SURN Nietsche
+2 GIVN Anna Maria
+1 SEX F
+1 FAMS @F44@
+1 BIRT
+2 DATE (before 1716)
+2 PLAC Ober-Erlitz
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 11:35:24
+1 FAMC @F48@
+0 @I70@ INDI
+1 _UID 1DD92FE8F6534D33BD1A0561CCA1F9C23B2F
+1 NAME Christoph /Sündermann/
+2 SURN Sündermann
+2 GIVN Christoph
+1 SEX M
+1 FAMS @F45@
+1 BIRT
+2 DATE (before 1698)
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 11:35:47
+0 @I71@ INDI
+1 _UID FBCB5569FD7840929F17EAAB0BA3F4D18970
+1 NAME Zacharias /Nietsche/
+2 SURN Nietsche
+2 GIVN Zacharias
+1 SEX M
+1 BIRT
+2 DATE (before 1692)
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 16:43:41
+1 FAMC @F47@
+1 FAMS @F48@
+0 @I72@ INDI
+1 _UID A69A6A80FE8C4B5DA7FADC7F88A7429D66B8
+1 NAME Georg /Nietsche/
+2 SURN Nietsche
+2 GIVN Georg
+1 SEX M
+1 FAMS @F47@
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 16:44:04
+1 BIRT
+2 DATE (before 1674)
+0 @I73@ INDI
+1 _UID 6C0FB85A8D7940D9AE37FFF4529D5FF5C7B4
+1 NAME Regina /Weigel/
+2 SURN Weigel
+2 GIVN Regina
+1 SEX F
+1 FAMS @F48@
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 16:43:48
+1 FAMC @F46@
+1 BIRT
+2 DATE (before 1692)
+0 @I74@ INDI
+1 _UID 61778297A2D54ADC872110F426B3A7CF8940
+1 NAME Michael /Weigel/
+2 SURN Weigel
+2 GIVN Michael
+1 SEX M
+1 FAMS @F46@
+1 CHAN
+2 DATE 17 MAY 2019
+3 TIME 16:43:55
+1 BIRT
+2 DATE (before 1674)
+0 @F10@ FAM
+1 HUSB @I1@
+1 WIFE @I15@
+1 CHIL @I11@
+1 MARR
+2 DATE 4 MAR 1867
+2 PLAC Wichstadtl
+0 @F11@ FAM
+1 HUSB @I16@
+1 WIFE @I2@
+1 CHIL @I1@
+1 MARR
+2 DATE 3 NOV 1829
+2 PLAC Grulich
+0 @F12@ FAM
+1 HUSB @I19@
+1 CHIL @I14@
+0 @F13@ FAM
+1 HUSB @I20@
+1 CHIL @I18@
+0 @F14@ FAM
+1 HUSB @I21@
+1 WIFE @I24@
+1 CHIL @I13@
+1 MARR
+2 DATE 3 FEB 1766
+2 PLAC Neusorg
+0 @F15@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I17@
+1 MARR
+2 DATE 7 SEP 1761
+2 PLAC Heydisch
+0 @F16@ FAM
+1 HUSB @I25@
+1 WIFE @I26@
+1 CHIL @I9@
+1 MARR
+2 DATE 23 NOV 1795
+2 PLAC Jamnay
+0 @F17@ FAM
+1 HUSB @I12@
+1 WIFE @I31@
+1 CHIL @I10@
+1 MARR
+2 DATE 13 MAY 1819
+2 PLAC Cotkytle
+0 @F18@ FAM
+1 HUSB @I28@
+1 WIFE @I29@
+1 CHIL @I25@
+1 MARR
+2 DATE 23 OCT 1757
+2 PLAC Jamnay
+0 @F19@ FAM
+1 HUSB @I27@
+1 WIFE @I30@
+1 CHIL @I26@
+1 MARR
+2 DATE 13 AUG 1770
+2 PLAC Jamnay
+0 @F21@ FAM
+1 HUSB @I33@
+1 WIFE @I35@
+1 CHIL @I27@
+1 MARR
+2 DATE 17 NOV 1734
+2 PLAC Jamnay
+0 @F22@ FAM
+1 HUSB @I34@
+1 WIFE @I45@
+1 CHIL @I30@
+1 MARR
+2 DATE 14 AUG 1740
+2 PLAC Jamnay
+0 @F23@ FAM
+1 HUSB @I36@
+1 WIFE @I44@
+1 CHIL @I35@
+1 MARR
+2 DATE 12 FEB 1702
+2 PLAC Jamnay
+0 @F24@ FAM
+1 HUSB @I39@
+1 WIFE @I40@
+1 CHIL @I28@
+0 @F25@ FAM
+1 HUSB @I37@
+1 WIFE @I38@
+1 CHIL @I33@
+0 @F26@ FAM
+1 HUSB @I41@
+1 CHIL @I29@
+0 @F27@ FAM
+1 HUSB @I42@
+1 WIFE @I43@
+1 CHIL @I39@
+1 MARR
+2 DATE 5 MAY 1697
+2 PLAC Jamnay
+0 @F28@ FAM
+1 HUSB @I46@
+1 WIFE @I48@
+1 CHIL @I34@
+1 MARR
+2 DATE 2 FEB 1695
+2 PLAC Jamnay
+0 @F29@ FAM
+1 HUSB @I52@
+1 WIFE @I53@
+1 CHIL @I36@
+0 @F30@ FAM
+1 HUSB @I54@
+1 WIFE @I57@
+1 CHIL @I21@
+1 MARR
+2 DATE 20 APR 1730
+2 PLAC Ober-Lipka
+0 @F31@ FAM
+1 HUSB @I50@
+1 CHIL @I48@
+0 @F32@ FAM
+1 HUSB @I49@
+1 WIFE @I51@
+1 CHIL @I46@
+0 @F33@ FAM
+1 HUSB @I47@
+1 CHIL @I45@
+1 MARR
+2 DATE 1 FEB 1705
+2 PLAC Unter-Hermanitz
+0 @F34@ FAM
+1 HUSB @I55@
+1 WIFE @I65@
+1 CHIL @I24@
+1 MARR
+2 DATE 17 JUN 1738
+2 PLAC Ullersdorf (???)
+0 @F36@ FAM
+1 HUSB @I58@
+1 CHIL @I22@
+0 @F37@ FAM
+1 HUSB @I32@
+1 WIFE @I59@
+1 CHIL @I31@
+1 MARR
+2 DATE 17 SEP 1785
+2 PLAC Cotkytle
+0 @F38@ FAM
+1 HUSB @I64@
+1 CHIL @I55@
+0 @F39@ FAM
+1 HUSB @I60@
+1 WIFE @I61@
+1 CHIL @I12@
+1 MARR
+2 DATE 9 NOV 1785
+2 PLAC Cotkytle
+0 @F40@ FAM
+1 HUSB @I62@
+1 WIFE @I63@
+1 CHIL @I32@
+0 @F41@ FAM
+1 HUSB @I66@
+1 CHIL @I65@
+0 @F42@ FAM
+1 HUSB @I67@
+1 CHIL @I54@
+0 @F43@ FAM
+1 HUSB @I68@
+1 CHIL @I57@
+0 @F44@ FAM
+1 HUSB @I56@
+1 WIFE @I69@
+1 CHIL @I23@
+1 MARR
+2 DATE 1 NOV 1733
+2 PLAC Ober-Erlitz
+0 @F45@ FAM
+1 HUSB @I70@
+1 CHIL @I56@
+0 @F46@ FAM
+1 HUSB @I74@
+1 CHIL @I73@
+0 @F47@ FAM
+1 HUSB @I72@
+1 CHIL @I71@
+0 @F48@ FAM
+1 HUSB @I71@
+1 WIFE @I73@
+1 CHIL @I69@
+1 MARR
+2 DATE 5 FEB 1709
+2 PLAC Ober-Erlitz
+0 @F5@ FAM
+1 HUSB @I8@
+1 CHIL @I5@
+0 @F6@ FAM
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I15@
+1 MARR
+2 DATE 25 NOV 1845
+2 PLAC Cotkytle
+0 @F8@ FAM
+1 HUSB @I17@
+1 WIFE @I13@
+1 CHIL @I2@
+1 MARR
+2 DATE 8 FEB 1790
+2 PLAC Grulich
+0 @F9@ FAM
+1 HUSB @I14@
+1 WIFE @I18@
+1 CHIL @I16@
+1 MARR
+2 DATE 19 FEB 1770
+2 PLAC Wichstadtl
+0 TRLR
